@@ -1,10 +1,10 @@
 # Automatización-contextos
 Búsqueda y cambio de descripción de contexto  
 
-#Buscar y cambiar descripcion de un contexto 
 Para este proyecto elegi una opcion de las que mas se usan (prueban) en mi vertical CORE(GO).
 
-Administracion de Contextos e incluir una descriocion del mismo 
+#CONTEXTO
+#Administracion de Contextos e incluir una descriocion del mismo.
 
 Para esto cree un codigo con Python y utilice Selenium para poder reproducirlo en el entorno de Finneg.
 Utilizando Visual Studio y python y descargamos la libreria de Selenium 
@@ -21,9 +21,11 @@ configuramos el driver en Google Chrome
 
 en este punto realizaremos varias pruebas. entre esas estan:
 
+![image](https://github.com/rosemarqui/Automatizaci-n-contextos/assets/119628954/98764d5d-544f-4557-bf3b-8cf4725019d8)
 
+#OBJETIVO DE LA AUTOMATIZACION
 
-Con esta prueba quiero poder acceder a un contexto, cambiar la descripcion y guardar el cambio, nos ayudara a mejorar el desarrollo del 
+Con esta prueba quiero poder acceder a un contexto, cambiar la descripcion y guardar el cambio, nos ayudara a mejorar el desarrollo de las pruebas, ya que tenemos algunas que se pueden repetir modificando algunos aspectos 
 
 
 
