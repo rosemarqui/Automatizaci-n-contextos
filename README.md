@@ -20,12 +20,12 @@ Para correr la prueba neecsitamos asegurarnos de tener descargado todos los item
 
 ![image](https://github.com/rosemarqui/Automatizaci-n-contextos/assets/119628954/dafc2593-5417-4751-a556-79ca887856b5)
 
-CONFIGURAMOS EL DRIVER PARA GOOGLEW CHROME 
+# CONFIGURAMOS EL DRIVER PARA GOOGLEW CHROME 
 
 ![image](https://github.com/rosemarqui/Automatizaci-n-contextos/assets/119628954/32c13fe1-5289-44a3-9bd5-4e3c62618de0)
 
 
-En este codigo realizaremos varias pruebas. entre esas estan:
+# En este codigo realizaremos varias pruebas. entre esas estan:
 
 ![image](https://github.com/rosemarqui/Automatizaci-n-contextos/assets/119628954/98764d5d-544f-4557-bf3b-8cf4725019d8)
 
