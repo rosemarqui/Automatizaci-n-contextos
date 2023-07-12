@@ -7,8 +7,34 @@ Para este proyecto elegi una opcion de las que mas se usan (prueban) en mi verti
 Administracion de Contextos e incluir una descriocion del mismo 
 
 Para esto cree un codigo con Python y utilice Selenium para poder reproducirlo en el entorno de Finneg.
-Utilizando Visual Studio y python con Selenium 
+Utilizando Visual Studio y python y descargamos la libreria de Selenium 
 
 ![image](https://github.com/rosemarqui/Automatizaci-n-contextos/assets/119628954/6b07d984-58de-48d2-a853-724bb49638c9)
 
-para realizar la prueba 
+Para correr la prueba neecsitamos asegurarnos de tener descargado todos los items solicitados, y que ningun codigo nos marque error. 
+
+![image](https://github.com/rosemarqui/Automatizaci-n-contextos/assets/119628954/dafc2593-5417-4751-a556-79ca887856b5)
+
+configuramos el driver en Google Chrome 
+![image](https://github.com/rosemarqui/Automatizaci-n-contextos/assets/119628954/32c13fe1-5289-44a3-9bd5-4e3c62618de0)
+
+
+en este punto realizaremos varias pruebas. entre esas estan:
+
+#acceder a la pagina de finnegans para iniciar sesion 
+#ingresamos usuario de finneggas 
+#ingreso de conmtraseña
+#ingreso del espacio de trabajo y hacer click                              
+#Abrir menu hamburguesa
+#Abrir Contextos
+#Buscar Contexto
+#Administrar Contexto
+#Editar contexto
+#Agregar descripcion
+#Guardar cambios
+#Cerrar ventana
+
+Con esta prueba quiero poder acceder a un contexto, cambiar la descripcion y guardar el cambio, nos ayudara a mejorar el desarrollo del 
+
+
+
