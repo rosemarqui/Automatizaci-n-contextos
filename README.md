@@ -21,18 +21,7 @@ configuramos el driver en Google Chrome
 
 en este punto realizaremos varias pruebas. entre esas estan:
 
-#acceder a la pagina de finnegans para iniciar sesion 
-#ingresamos usuario de finneggas 
-#ingreso de conmtraseña
-#ingreso del espacio de trabajo y hacer click                              
-#Abrir menu hamburguesa
-#Abrir Contextos
-#Buscar Contexto
-#Administrar Contexto
-#Editar contexto
-#Agregar descripcion
-#Guardar cambios
-#Cerrar ventana
+
 
 Con esta prueba quiero poder acceder a un contexto, cambiar la descripcion y guardar el cambio, nos ayudara a mejorar el desarrollo del 
 
