@@ -4,6 +4,7 @@ Búsqueda y cambio de descripción de contexto
 Para este proyecto elegi una opcion de las que mas se usan (prueban) en mi vertical CORE(GO).
 
 #CONTEXTO
+
 #Administracion de Contextos e incluir una descriocion del mismo.
 
 Para esto cree un codigo con Python y utilice Selenium para poder reproducirlo en el entorno de Finneg.
